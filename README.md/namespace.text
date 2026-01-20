@@ -1,0 +1,9 @@
+  Namespace trong C# dùng để nhóm các class lại với nhau, tránh trùng tên.
+
+  Ví dụ:
+  namespace Buoi3_MVC.Controllers
+  {
+  public class DemoController : Controller
+  {
+  }
+  }

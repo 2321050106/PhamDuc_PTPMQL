@@ -1,0 +1,18 @@
+Routing là cơ chế ánh xạ URL tới Controller và Action.
+
+Cú pháp mặc định trong Program.cs:
+
+app.MapControllerRoute(
+name: "default",
+pattern: "{controller=Home}/{action=Index}/{id?}"
+);
+
+Ý nghĩa:
+
+- controller: tên controller
+- action: tên phương thức
+- id: tham số (không bắt buộc)
+
+Ví dụ:
+
+- /Demo/Index → DemoController, action Index

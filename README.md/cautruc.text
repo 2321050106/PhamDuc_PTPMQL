@@ -1,0 +1,14 @@
+-MVCMOVIE      <-- tên project
+   > .vscode
+   > bin
+   > Controllers   <-- thư mục chứa các controller (code để xử lí yêu cầu từ View gửi về)
+   > Models        <-- Chứa các lớp đại diện cho CSDL của ứng dụng
+   > obj           
+   > Properties
+   > View          <-- Thư mục chứa các thành phần hiển thị giao diện người dùng
+   > wwwroot       <-- Thư mục chứa các file của dự án (HTML, CSS, JS)
+   {} appsettings.Development.json
+   {} appsettings.json   <-- file chứa code cấu hình dự án
+   MVCApp.csproj
+   MVCApp.sln
+   Program.cs       <-- file chứa code cấu hình dự án
