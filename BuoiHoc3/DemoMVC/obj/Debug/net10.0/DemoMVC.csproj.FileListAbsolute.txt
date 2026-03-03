@@ -96,3 +96,4 @@ C:\Users\Admin\Documents\Net_Core_API\BuoiHoc3\DemoMVC\obj\Debug\net10.0\refint\
 C:\Users\Admin\Documents\Net_Core_API\BuoiHoc3\DemoMVC\obj\Debug\net10.0\DemoMVC.pdb
 C:\Users\Admin\Documents\Net_Core_API\BuoiHoc3\DemoMVC\obj\Debug\net10.0\DemoMVC.genruntimeconfig.cache
 C:\Users\Admin\Documents\Net_Core_API\BuoiHoc3\DemoMVC\obj\Debug\net10.0\ref\DemoMVC.dll
+C:\Users\Admin\Documents\Net_Core_API\BuoiHoc3\DemoMVC\obj\Debug\net10.0\DemoMVC.csproj.AssemblyReference.cache

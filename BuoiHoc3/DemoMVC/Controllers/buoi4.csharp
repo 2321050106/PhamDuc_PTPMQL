@@ -1,0 +1,17 @@
+using Microsoft.AspNetCore.MVC
+
+namespace Buoi4.Controllers
+{
+    public class Buoi4Controller : Controller
+    {
+        public IActionResult Index()
+        {
+            // Gửi dữ liệu sang View bằng ViewBag
+            ViewBag.Message = "Xin chào, đây là dữ liệu gửi từ Controller";
+
+            ViewBag.Year = 2026;
+
+            return View();
+        }
+    }
+}
